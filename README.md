@@ -1,4 +1,4 @@
-```markdown
+
 # JapaneseArabic Dictionary Project 🇯🇵 🇦🇪
 
 ## Overview
@@ -44,7 +44,6 @@ Each entry contains:
     ]
 }
 ```
-
 ### Conjugation Engine
 The project includes a Python-based conjugation engine that automatically generates all verb forms:
 - て-form
