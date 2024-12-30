@@ -67,11 +67,13 @@ pip install yomitandic
 2. Import into Yomitan or your preferred dictionary application
 3. For developers, clone the repository:
 ```bash
-git clone https://github.com/yourusername/japanesearabic.git
+git clone https://github.com/a-hamdi/japanesearabic.git
 ```
 
 ### Building from Source
+You must first unzip the file arabicscrapped.zip!
 ```bash
+cd code
 python create_dictionary.py
 ```
 
