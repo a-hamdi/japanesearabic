@@ -120,4 +120,4 @@ If you find this project helpful, please:
 
 ---
 Made with ❤️ for Japanese and Arabic language learners
-```
+
