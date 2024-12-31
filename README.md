@@ -2,7 +2,7 @@
 # JapaneseArabic Dictionary Project 
 
 ## Overview
-JapaneseArabic is an open-source yomitan dictionary project based on shinjikai.app online dictionary that aims to create a comprehensive Japanese-Arabic dictionary for yomitan browser extension with full verb conjugation support. This project includes both the dictionary data and tools for processing and generating dictionary entries.
+JapaneseArabic is an open-source yomitan dictionary project based on shinjikai.app online dictionary that aims to create a comprehensive Japanese-Arabic dictionary for yomitan browser extension with full verb conjugation support. This project includes both the dictionary data and tools for processing and generating yomitan dictionary entries. An LLM has been used to check the inputs and their consistency with translation, and it also verifies for any potential missing entries or issues in the file!
 
 ## Features ✨
 - Japanese to Arabic translations
@@ -111,7 +111,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - [ ] Add more dialect support
 - [ ] Develop a mobile application
 - [ ] Integrate with language learning platforms
-
+## Copyright Notice 📜
+This dictionary is based on data from the Shinjikai.app online dictionary. All original content copyright Shinjikai. Redistribution or modification of their content was conducted with complience with the terms specified by Shinjikai.
 ## Support the Project ❤️
 If you find this project helpful, please:
 - Star the repository
